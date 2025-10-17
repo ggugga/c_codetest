@@ -4,13 +4,11 @@
 int main(void){
 
 int age = 0;
-scanf_s("%d", &age);
-
 do
 {
-	printf("나이를 다시 입력하세요: ");
+	printf("나이를 입력하세요: ");
 	scanf_s("%d", &age);
-} while (age > 0 && age < 121);
+} while (age < 1 || age > 120);
 
 return 0;
 }
