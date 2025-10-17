@@ -19,8 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Func_Decl_Def_Call.cpp" />
-    <ClCompile Include="func_make_2.cpp" />
+    <ClCompile Include="Recursive_Call.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
