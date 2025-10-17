@@ -44,8 +44,5 @@ int main(void)
         printf("\n");
         ++j;
         } 
-        
-        
-
     return 0;
 }
