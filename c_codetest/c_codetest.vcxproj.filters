@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="struct.cpp">
+    <ClCompile Include="c++build_test.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
